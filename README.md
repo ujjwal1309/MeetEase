@@ -116,7 +116,3 @@ https://easemeet.onrender.com
 ![meetease-data-relatioship](https://user-images.githubusercontent.com/107751849/229445013-7b309b18-2043-4178-86e6-c2b126499cea.png)
 
 
-HomePage, Video Calling => Kuldeep Tiwari
-Checking meeting for user and deploying, logout => Chetan Ram
-Appointments => Keerti pawar
-login => ujjwal
